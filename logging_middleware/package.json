@@ -1,0 +1,12 @@
+{
+  "name": "logging_middleware",
+  "version": "1.0.0",
+  "description": "Shared logging middleware for notification platform - captures request lifecycle and forwards structured logs",
+  "main": "index.js",
+  "keywords": [],
+  "author": "E23CSEU0808",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.0"
+  }
+}
